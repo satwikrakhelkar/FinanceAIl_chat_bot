@@ -1,4 +1,4 @@
-#HUGGING_FACE_CHATBOT
+#FinaceAIl_AIChatbot
 Building open-source AI assistants 
 using HuggingFace Chat Assistants.
 
